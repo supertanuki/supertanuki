@@ -2,7 +2,7 @@
 
 ## French web developer
 
-[I act](richardhanna.dev/) for a responsible, eco-designed, accessible and ethical web for a positive impact on society within planetary limits. Co-host of the [Techologie](https://techologie.net/) podcast.
+[I act](https://richardhanna.dev/) for a responsible, eco-designed, accessible and ethical web for a positive impact on society within planetary limits. Co-host of the [Techologie](https://techologie.net/) podcast.
 
 ## Any repositories
 
