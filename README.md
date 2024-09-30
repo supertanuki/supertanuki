@@ -7,5 +7,5 @@
 ## Any repositories
 
 * [Technocritique](https://github.com/supertanuki/technocritique) : ressources incontournables du passé et du présent et les personnes du présent à suivre et qui questionnent l'apport de la technologie, le numérique sur des questions démocratiques, sociales, sociétales et environnementales.
-* [Numérique responsable](https://github.com/supertanuki/numeriqueEcoResponsable) : ressources et écosystème.
+* [Numérique et environnement](https://github.com/supertanuki/numeriqueEcoResponsable) : ressources et écosystème.
 * [Carbonalyser](https://github.com/carbonalyser/Carbonalyser) : the add-on allows to visualize the electricity consumption and greenhouse gases (GHG) emissions that your Internet browsing leads to.
